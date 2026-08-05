@@ -1,0 +1,20 @@
+# Archivos temporales del script
+.hifi_br_tmp/
+BLURAY_AUDIO_OUTPUT/
+
+# Archivos multimedia de prueba
+*.iso
+*.flac
+*.wav
+*.mp3
+*.m4a
+*.alac
+*.aac
+*.ogg
+*.cover.*
+cover.jpg
+cover.png
+
+# Archivos de sistema
+.DS_Store
+*.swp
