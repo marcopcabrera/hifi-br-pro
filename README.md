@@ -1,4 +1,4 @@
-# 💿 HiFi BR Pro (v4.0)
+# 💿 HiFi BR Pro (v4.1.0)
 
 **HiFi BR Pro** is an automated Bash script designed to build **100% standard Hi-Res Audio Blu-ray ISOs (BDMV)** from your lossless audio collections (FLAC, WAV, ALAC, APE, AIFF, etc.).
 
